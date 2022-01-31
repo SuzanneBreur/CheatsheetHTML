@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgrey;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: mediumpurple;
+}
+
+table {
+    border: 2px solid mediumpurple;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1.5px solid lightgrey;
+}
+
+th {
+    background-color: plum;
+}
+
+td {
+    border-bottom: 1px solid mediumpurple;
+}
+
+.HtmlTag, .HtmlAttribute {
+    background-color: lightyellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    width: 10%;
+}
